@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋👋
+
+- 🔭 I’m currently working on making best use of large datasets
+- 🎓 I’m currently learning how to lead remote teams best
+- 👯 I’m looking to collaborate on fancy Data Science or DataViz projects
+- 📫 How to reach me: @steftip on twitter
+- 💬 Ask me about the latest online learning courses
+- ⚡ Fun fact: My hairstyle changed since my profile pic was taken
+
 
 <!--
 **StefanTippelt/StefanTippelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
