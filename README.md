@@ -1,7 +1,7 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: [Twitter](https://twitter.com/steftip)
 
-### Hi there, I'm Stefan 👋👋
+### Hi there, I'm Stefan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on making best use of large datasets
 - 🎓 I’m currently learning how to lead remote teams best
