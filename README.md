@@ -1,15 +1,19 @@
-### Hi there 👋👋
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1]: [Twitter](https://twitter.com/steftip)
+
+### Hi there, I'm Stefan 👋👋
 
 - 🔭 I’m currently working on making best use of large datasets
 - 🎓 I’m currently learning how to lead remote teams best
 - 👯 I’m looking to collaborate on fancy Data Science or DataViz projects
-- 📫 How to reach me: @steftip on twitter
+- 📫 Connect with me on:
+  - :office: [LinkedIn](https://www.linkedin.com/in/stefan-tippelt/)
+  - [![alt text][1.2]][1][Twitter](https://twitter.com/steftip)
+
+
 - 💬 Ask me about the latest online learning courses
 - ⚡ Fun fact: My hairstyle changed since my profile pic was taken
 
-
-### Check out my latest articles
-<a target="_blank" href="https://blog.stylight.com/4-reasons-why-you-should-visualize-your-data/"><img src="https://1oittt1f6n4u1okujdt3wd7r-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/Migration-flows-HEADER.jpg" alt="Recent Article 0"> 
 
 
 <!--
